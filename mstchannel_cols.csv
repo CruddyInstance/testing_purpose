@@ -1,0 +1,82 @@
+channelid,ChannelGroupID,channelname,GroupName
+1,1,Public Tweets,Twitter
+2,2,FB Page User,Facebook
+3,2,FB Public,Facebook
+4,9,Blogs,Blogs
+5,13,Discussion Forums,Discussion Forums
+6,19,News,News
+7,1,Twitter brand mention,Twitter
+8,2,FB Comments,Facebook
+9,22,TripAdvisor,TripAdvisor
+10,1,Brand Tweets,Twitter
+11,2,Fb Media Posts,Facebook
+12,2,FB Media Comments,Facebook
+13,21,TeamBHP Posts,TeamBHP
+14,21,TeamBHP Comments,TeamBHP
+15,21,TeamBHP Other Posts Comments,TeamBHP
+16,11,Complaint Websites,Complaint Websites
+17,1,Direct Messages,Twitter
+18,4,YouTube Posts,YouTube
+19,4,YouTube Comments,YouTube
+20,3,Instagram Page Posts,Instagram
+21,3,Instagram User Posts,Instagram
+22,3,Instagram Comments,Instagram
+23,3,Instagram Public Posts,Instagram
+24,6,Google Page Posts,Google Plus
+25,6,Google User Posts,Google Plus
+26,6,Google Public Posts,Google Plus
+27,6,Google Comments,Google Plus
+28,12,CustomerCare,CustomerCare
+29,15,Expedia,Expedia.com
+30,10,Booking,Booking.com
+31,20,Posts,Review Websites
+32,20,Comments,Review Websites
+33,14,E-Commerce Posts,E-Commerce Websites
+34,14,E-Commerce Comments,E-Commerce Websites
+35,18,Posts,MyGov
+36,18,Comments,MyGov
+37,16,HolidayIQ Review,HolidayIQ
+38,24,Zomato Post,Zomato
+39,24,Zomato Comment,Zomato
+40,2,FB Messages,Facebook
+41,23,Videos,Videos
+42,7,Google Play Store,Google Play Store
+43,5,LinkedIn Page User,LinkedIn
+44,5,LinkedIn Public,LinkedIn
+45,5,LinkedIn Comments,LinkedIn
+46,5,LinkedIn Media Posts,LinkedIn
+47,5,LinkedIn Media Comments,LinkedIn
+48,5,Message,LinkedIn
+49,2,FB Reviews,Facebook
+50,8,AutomotiveIndia Post,AutomotiveIndia
+51,8,AutomotiveIndia Comment,AutomotiveIndia
+52,8,AutomotiveIndia Other Posts Comments,AutomotiveIndia
+53,17,Make My Trip,MakeMyTrip
+54,25,Email,Email
+55,26,GMB Reviews,GMB
+56,27,Electronic Media,External Media
+57,27,Print Media,External Media
+58,26,GMB Questions,GMB
+59,26,GMB Answers,GMB
+60,28,WhatsApp,WhatsApp
+61,29,Facebook Chatbot,ChatBot
+62,29,WebsiteChatbot,ChatBot
+63,29,AndroidChatbot,ChatBot
+64,29,IOSChatbot,ChatBot
+65,29,LineChatbot,ChatBot
+66,29,WhatsAppChatbot,ChatBot
+67,30,App Store Reviews,App Store
+68,31,Discourse Topics,Discourse
+69,31,Discourse Post,Discourse
+70,3,Instagram Messages,Instagram
+71,29,Instagram Chatbot,ChatBot
+72,32,Knowlarity,VOIP
+73,29,Twitter Chatbot,ChatBot
+74,33,Glassdoor Reviews,Glassdoor
+75,36,Quora Question,Quora
+76,36,Quora Answers,Quora
+77,36,Quora Comment,Quora
+78,37,TikTok Videos,Tiktok
+79,29,TelegramChatbot,ChatBot
+80,38,GB Messages,GBM
+81,37,Tiktok Comments,Tiktok
